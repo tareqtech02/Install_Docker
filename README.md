@@ -47,6 +47,11 @@ systemctl start docker.service
 systemctl status docker.service
 ```
 
+Check the status of the firewalld service using systemctl.
+```
+systemctl status firewalld
+```
+
 Run the "hello-world" Docker container to verify the Docker installation.
 ```
 sudo docker run hello-world
