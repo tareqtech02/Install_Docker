@@ -1,18 +1,18 @@
 ## Install_Docker
 Install Docker on Linux ( CentOS 9 )
 
-## Ensure an internet connection is available.
+Ensure an internet connection is available.
 
 ```
 ping google.com -c 5
 ```
 
-## Change the Hostname for the Server
+Change the Hostname for the Server
 ```
 hostnamectl set-hostname <HostName>
 ```
 
-## Ensure to update the System
+Ensure to update the System
 
 Update the Systme
 ```
